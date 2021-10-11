@@ -14,8 +14,8 @@
 
 <div>
   <a href="https://github.com/brunocco">
-  <img height="160em" width="350em" src="https://github-readme-stats.vercel.app/api?username=brunocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=brunocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -29,6 +29,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/FRbLbw91/spidertocat.png"/>
 
   
-   ![Snake animation](https://github.com/brunocco/brunocco/blob/output/github-contribution-grid-snake.svg) 
+
     
 </div>
