@@ -29,6 +29,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/FRbLbw91/spidertocat.png"/>
 
   
-   ![Snake animation](https://github.com/brunocco/brunocco/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/brunocco/brunocco/blob/output/github-contribution-grid-snake.svg) 
     
 </div>
