@@ -2,11 +2,11 @@
 
 💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (2º Periodo de Análise e Desenvolvimento de Sistemas).
 
-💻 Tabém do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (2º Periodo de Desenvolvimento de Sistemas).
+💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (2º Periodo de Desenvolvimento de Sistemas).
 
 🎨 Animado com Front End e 🔨 Back.
 
-🐍 Entusista em Python.
+🐍 Entusiasta em Python.
 
 📌 interessado em Novas Linguagens.
 
