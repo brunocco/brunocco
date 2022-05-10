@@ -1,8 +1,8 @@
 👋 Olá! Meu nome é Bruno Cesar!
 
-💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (2º Periodo de Análise e Desenvolvimento de Sistemas).
+💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (3º Periodo de Análise e Desenvolvimento de Sistemas).
 
-💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (2º Periodo de Desenvolvimento de Sistemas).
+💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (3º Periodo de Desenvolvimento de Sistemas).
 
 🎨 Animado com Front End e 🔨 Back.
 
@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/brunocco">
-  <img height="160em" width="350em" src="https://github-readme-stats.vercel.app/api?username=brunocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="450em" src="https://github-readme-stats.vercel.app/api?username=brunocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
