@@ -1,6 +1,6 @@
 👋 Olá! Meu nome é Bruno Cesar!
 
-💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (3º Periodo de Análise e Desenvolvimento de Sistemas).
+💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (5º Periodo de Análise e Desenvolvimento de Sistemas).
 
 💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (3º Periodo de Desenvolvimento de Sistemas).
 
