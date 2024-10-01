@@ -4,6 +4,8 @@
 
 💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (3º Periodo de Desenvolvimento de Sistemas).
 
+💻 Participo da mentoria Guardião de Qualidade PRO da <a href="https://www.linkedin.com/company/lumestack/posts/?feedView=all">LumeStack</a>.
+
 🎨 Animado com Front End e 🔨 Back.
 
 🐍 Entusiasta em Python.
