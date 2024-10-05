@@ -6,11 +6,13 @@
 
 💻 Participo da mentoria Guardião de Qualidade PRO da <a href="https://www.linkedin.com/company/lumestack/posts/?feedView=all">LumeStack</a>.
 
-🎨 Animado com Front End e 🔨 Back.
+🔨 Me empenhando em testes de software automatizado.
+
+🎨 Animado com Front End e Back.
 
 🐍 Entusiasta em Python.
 
-📌 interessado em Novas Linguagens.
+📌 interessado em Ferramentas de Quality Assurance.
 
 📊 A procura de Estágio e participações em projetos.
 
