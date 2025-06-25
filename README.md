@@ -1,20 +1,23 @@
-👋 Olá! Meu nome é Bruno Cesar!
+👋 Olá! Meu nome é **Bruno Cesar**!
 
-💻 Sou Aluno do <a href="https://https://portal.ifpe.edu.br/campus/paulista/">IFPE campus Paulista</a> (5º Periodo de Análise e Desenvolvimento de Sistemas).
+🎓 Sou estudante do [IFPE - Campus Paulista](https://portal.ifpe.edu.br/campus/paulista/) (5º período de Análise e Desenvolvimento de Sistemas).
 
-💻 Também do <a href="https://www.instagram.com/eteportodigital/?hl=pt-br/">ETE Porto Digital</a> (3º Periodo de Desenvolvimento de Sistemas).
+🌐 Participo da mentoria **Guardião de Qualidade PRO** da [LumeStack](https://www.linkedin.com/company/lumestack/posts/?feedView=all).
 
-💻 Participo da mentoria Guardião de Qualidade PRO da <a href="https://www.linkedin.com/company/lumestack/posts/?feedView=all">LumeStack</a>.
+📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e cursando **Arquiteto de Soluções AWS**.
 
-🔨 Me empenhando em testes de software automatizado.
+🔧 Focado em **testes de software automatizados**, explorando ferramentas como Cypress, Postman e Robot Framework.
 
-🎨 Animado com Front End e Back.
+☁️ Aprimorando conhecimentos em **Cloud Computing com AWS**.
 
-🐍 Entusiasta em Python.
+🎨 Interessado em **desenvolvimento Front-End e Back-End**.
 
-📌 interessado em Ferramentas de Quality Assurance.
+🐍 Entusiasta em **Python** e pela qualidade no desenvolvimento de software.
 
-📊 A procura de Estágio e participações em projetos.
+🔎 Em busca de **estágio** e oportunidades para contribuir com **projetos reais** em tecnologia.
+
+📌 Áreas de interesse: **Quality Assurance, DevOps, Cloud e Suporte Técnico.**
+
 
 <div>
   <a href="https://github.com/brunocco">
