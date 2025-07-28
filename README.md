@@ -4,7 +4,7 @@
 
 🌐 Participo da mentoria **Guardião de Qualidade PRO** da [LumeStack](https://www.linkedin.com/company/lumestack/posts/?feedView=all).
 
-📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e cursando **Arquiteto de Soluções AWS**.
+📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e **Arquiteto de Soluções AWS**.
 
 🔧 Focado em **testes de software automatizados**, explorando ferramentas como Cypress, Postman e Robot Framework.
 
