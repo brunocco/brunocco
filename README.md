@@ -8,7 +8,7 @@
 
 🔧 Focado em **testes de software automatizados**, explorando ferramentas como Cypress, Postman e Robot Framework.
 
-☁️ Aprimorando conhecimentos em **Cloud Computing com AWS**.
+☁️ Aprimorando conhecimentos em **Cloud Computing com AWS** em labaratórios pela Escola da Nuvem e prática pessoal.
 
 🎨 Interessado em **desenvolvimento Front-End e Back-End**.
 
