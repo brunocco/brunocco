@@ -1,23 +1,33 @@
-👋 Olá! Meu nome é **Bruno Cesar**!
+# Olá! 👋 Meu nome é **Bruno Cesar**!
 
-🎓 Sou estudante do [IFPE - Campus Paulista](https://portal.ifpe.edu.br/campus/paulista/) (5º período de Análise e Desenvolvimento de Sistemas).
+🎓 Sou estudante do [IFPE - Campus Paulista](https://portal.ifpe.edu.br/campus/paulista/) (5º período de Análise e Desenvolvimento de Sistemas)
 
-🌐 Participo da mentoria **Guardião de Qualidade PRO** da [LumeStack](https://www.linkedin.com/company/lumestack/posts/?feedView=all).
+🌐 Participo da mentoria **Guardião de Qualidade PRO** da [LumeStack](https://www.linkedin.com/company/lumestack/posts/?feedView=all)  
+☁️ Também participo da mentoria da [Escola da Nuvem](https://www.linkedin.com/in/escola-da-nuvem-aa6953324/), com prática e laboratórios em Cloud Computing
 
-📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e **Arquiteto de Soluções AWS**.
+📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e **Arquiteto de Soluções AWS**
 
-🔧 Focado em **testes de software automatizados**, explorando ferramentas como Cypress, Postman e Robot Framework.
+---
 
-☁️ Aprimorando conhecimentos em **Cloud Computing com AWS** em laboratórios pela **Escola da Nuvem** e prática pessoal.
+### Minhas habilidades
+🔧 Testes de software automatizados: **Cypress, Postman, Robot Framework**  
+☁️ **Cloud Computing** (AWS), **arquitetura de cloud**, infraestrutura como código (**Terraform**)  
+🐳 **Docker** e **containerização de aplicações**  
+📊 **Observabilidade e monitoramento** com **Datadog**  
+🐍 Programação em **Python**  
+🎨 Desenvolvimento **Front-End** e **Back-End**  
+🔎 Interesse em **Quality Assurance, DevOps, Cloud e Suporte Técnico**
 
-🎨 Interessado em **desenvolvimento Front-End e Back-End**.
+---
 
-🐍 Entusiasta em **Python** e pela qualidade no desenvolvimento de software.
+### Estou buscando
+Oportunidades de **estágio ou emprego** para aplicar meus conhecimentos e contribuir com **projetos reais** em tecnologia
 
-🔎 Em busca de **estágio** e oportunidades para contribuir com **projetos reais** em tecnologia.
 
-📌 Áreas de interesse: **Quality Assurance, DevOps, Cloud e Suporte Técnico.**
+### Estou buscando
+Oportunidades de **estágio ou emprego** para aplicar meus conhecimentos e contribuir com **projetos reais** em tecnologia
 
+---
 
 <div>
   <a href="https://github.com/brunocco">
