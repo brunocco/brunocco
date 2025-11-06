@@ -2,8 +2,7 @@
 
 🎓 Sou estudante do [IFPE - Campus Paulista](https://portal.ifpe.edu.br/campus/paulista/) (5º período de Análise e Desenvolvimento de Sistemas)
 
-🌐 Participo da mentoria **Guardião de Qualidade PRO** da [LumeStack](https://www.linkedin.com/company/lumestack/posts/?feedView=all)  
-☁️ Também participo da mentoria da [Escola da Nuvem](https://www.linkedin.com/in/escola-da-nuvem-aa6953324/), com prática e laboratórios em Cloud Computing
+☁️ Participo da mentoria da [Escola da Nuvem](https://www.linkedin.com/in/escola-da-nuvem-aa6953324/), com prática e laboratórios em Cloud Computing
 
 📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e **Arquiteto de Soluções AWS**
 
