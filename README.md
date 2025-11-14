@@ -1,30 +1,51 @@
-# Olá! 👋 Meu nome é **Bruno Cesar**!
+# 👋 Olá! Eu sou o **Bruno Cesar**
 
-🎓 Sou estudante do [IFPE - Campus Paulista](https://portal.ifpe.edu.br/campus/paulista/) (5º período de Análise e Desenvolvimento de Sistemas)
+🎓 Estudante do **IFPE – Campus Paulista**, atualmente no 5º período de **Análise e Desenvolvimento de Sistemas**.
 
-☁️ Participo da mentoria da [Escola da Nuvem](https://www.linkedin.com/in/escola-da-nuvem-aa6953324/), com prática e laboratórios em Cloud Computing
+☁️ Atuo na área de **Cloud Computing**, com experiência prática adquirida por meio da mentoria da **Escola da Nuvem**, onde desenvolvo projetos e laboratórios focados em AWS.
 
-📜 Certificado em **Scrum Foundation**, **AWS Cloud Practitioner** e **Arquiteto de Soluções AWS**
+📜 **Certificações**
+- AWS Cloud Practitioner
+- AWS Solutions Architect – Associate
+- AWS Developer - Associate
+- Scrum Foundation
 
 ---
 
-### Minhas habilidades
-🔧 Testes de software automatizados: **Cypress, Postman, Robot Framework**  
-☁️ **Cloud Computing** (AWS), **arquitetura de cloud**, infraestrutura como código (**Terraform**)  
-🐳 **Docker** e **containerização de aplicações**  
-📊 **Observabilidade e monitoramento** com **Datadog**  
-🐍 Programação em **Python**  
-🎨 Desenvolvimento **Front-End** e **Back-End**  
-🔎 Interesse em **Quality Assurance, DevOps, Cloud e Suporte Técnico**
+## 🔧 Minhas habilidades
+
+### ☁️ Cloud & DevOps
+- Arquitetura de soluções na **AWS**
+- Infraestrutura como código com **Terraform**
+- Deploy de aplicações utilizando **ECS Fargate, ECR, S3 e CloudFront**
+- Containerização com **Docker**
+- Conceitos de CI/CD e automação
+
+### 🧪 Qualidade e Testes
+- Testes automatizados com **Cypress, Postman e Robot Framework**
+
+### 🖥️ Desenvolvimento
+- Programação em **Python** e **Javascript**
+
+### 📊 Observabilidade
+- Monitoramento e métricas com **Datadog**, **Grafana**, **Prometheus** e **Zabbix**
+
+---
+
+## 🔎 Áreas de interesse
+- Cloud Computing (AWS)
+- DevOps
+- Quality Assurance
+- Suporte Técnico
+- Automação
+
+
 
 ---
 
 ### Estou buscando
 Oportunidades de **estágio ou emprego** para aplicar meus conhecimentos e contribuir com **projetos reais** em tecnologia
 
-
-### Estou buscando
-Oportunidades de **estágio ou emprego** para aplicar meus conhecimentos e contribuir com **projetos reais** em tecnologia
 
 ---
 
