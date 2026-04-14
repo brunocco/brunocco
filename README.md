@@ -23,6 +23,7 @@
 - Deploy e gerenciamento de aplicações usando **ECS Fargate, ECR, S3 e CloudFront**
 - Containerização e build de imagens com **Docker**
 - Conceitos e práticas de **CI/CD** e automação de pipelines
+- Linux
 
 ### 📊 Observabilidade & Monitoramento
 - Monitoramento, métricas e alertas com **Datadog**, **Grafana**, **Prometheus** e **Zabbix**
